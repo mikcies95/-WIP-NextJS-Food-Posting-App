@@ -27,7 +27,7 @@ You may also inspect meals made by others.
 
 ### Current problems / future to-do-list.
 
-In theory this app should allow for storing images locally and while it does add the posts it's not displaying the added images. /To fix 
+- In theory this app should allow for storing images locally and while it does add the posts it's not displaying the added images. /To fix 
 
-Additionally this App has no advanced back-end utility and one day I would like to add it. For example, building something that allows
+- Additionally this App has no advanced back-end utility and one day I would like to add it. For example, building something that allows
 storing the posts and image on a server-side database. /Long future plans
